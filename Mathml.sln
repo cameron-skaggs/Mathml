@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathml", "Mathml\Mathml.csproj", "{AEE1F344-3703-4068-9059-0D7C6CA1E18E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathmlTest", "MathmlTest\MathmlTest.csproj", "{E47FB648-8ED8-4190-B84F-FA318222ADF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE1F344-3703-4068-9059-0D7C6CA1E18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE1F344-3703-4068-9059-0D7C6CA1E18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE1F344-3703-4068-9059-0D7C6CA1E18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE1F344-3703-4068-9059-0D7C6CA1E18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47FB648-8ED8-4190-B84F-FA318222ADF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47FB648-8ED8-4190-B84F-FA318222ADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47FB648-8ED8-4190-B84F-FA318222ADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47FB648-8ED8-4190-B84F-FA318222ADF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E635BD07-86D6-4E85-B701-374389B36CEA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\camer\source\repos\Mathml\Mathml\bin\Debug\Mathml.exe.config
+C:\Users\camer\source\repos\Mathml\Mathml\bin\Debug\Mathml.exe
+C:\Users\camer\source\repos\Mathml\Mathml\bin\Debug\Mathml.pdb
+C:\Users\camer\source\repos\Mathml\Mathml\obj\Debug\Mathml.csprojAssemblyReference.cache
+C:\Users\camer\source\repos\Mathml\Mathml\obj\Debug\Mathml.csproj.CoreCompileInputs.cache
+C:\Users\camer\source\repos\Mathml\Mathml\obj\Debug\Mathml.exe
+C:\Users\camer\source\repos\Mathml\Mathml\obj\Debug\Mathml.pdb
+C:\Users\camer\source\repos\Mathml\Mathml\bin\Debug\math.xml
